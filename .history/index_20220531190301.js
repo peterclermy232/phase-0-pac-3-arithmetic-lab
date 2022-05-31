@@ -28,11 +28,5 @@ function decrement(n){
 }
 
 // passing integer
-function makeInt(n){
-    return  parseInt(n , 10);
-}
-// passing using floating
 
-function preserveDecimal(n){
-   return parseFloat(n , 10.234);
-}
+make

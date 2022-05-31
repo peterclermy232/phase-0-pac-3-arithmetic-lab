@@ -15,24 +15,10 @@ function divide(a, b){
     return a / b;
 }
 
-
-
 // increment
 function increment(n){
-    return ++n;
+    return n++;
 }
 
 // decrement
-function decrement(n){
-    return --n;
-}
-
-// passing integer
-function makeInt(n){
-    return  parseInt(n , 10);
-}
-// passing using floating
-
-function preserveDecimal(n){
-   return parseFloat(n , 10.234);
-}
+function decre
