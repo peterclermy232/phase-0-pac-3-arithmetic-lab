@@ -33,6 +33,3 @@ function makeInt(n){
 }
 // passing using floating
 
-function preserveDecimal(n){
-   return parseFloat(n , 10.234);
-}

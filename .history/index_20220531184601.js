@@ -1,0 +1,10 @@
+const { resourceLimits } = require("worker_threads");
+
+function add(a, b){
+    result
+
+}
+
+function subtract(){}
+function multiply(){}
+function divide(){}
